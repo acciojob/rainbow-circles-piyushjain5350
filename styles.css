@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+#outer{
+	width:300px;
+	height:300px;
+	border:25px solid rgb(255, 0, 0);
+	border-radius:50%;
+	background-color:rgb(255, 165, 0);
+	margin:25px;
+}
+#middle{
+	width:200px;
+	height:200px;
+	border:25px solid rgb(255, 255, 0);
+	border-radius:50%;
+	background-color:rgb(0, 128, 0);
+	margin:25px;
+}
+#inner{
+	width:100px;
+	height:100px;
+	border:25px solid rgb(0, 0, 255);
+	border-radius:50%;
+	background-color:rgb(128, 0, 128);
+	margin:25px;
+}
